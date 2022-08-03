@@ -1,1 +1,4 @@
-//bdghj
+//String-1 > helloName
+//helloName("Bob") → "Hello Bob!"
+//helloName("Alice") → "Hello Alice!"
+//helloName("X") → "Hello X!"
